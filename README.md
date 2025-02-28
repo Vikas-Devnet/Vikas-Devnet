@@ -26,7 +26,7 @@
 
 <!-- Read the blogs here on my hashnode profile -->
 
-<!--## Read technical blogs here:
+## Read technical blogs here:
 <p align="left"> 
 
 </a>
@@ -36,7 +36,7 @@
     <img
       src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" />
   </a>
-</p>-->
+</p>
 
 
 <!-- come on let's connect here -->
