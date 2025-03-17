@@ -47,7 +47,10 @@
   <a href="https://www.linkedin.com/in/vikas-kumar-b97876324/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="vikas-kumar-b97876324" />
   </a>
-  <a href="https://devnet.ind.in/" target="_blank" rel="Devnet Site">
+   <a href="https://x.com/Vikas_Devnet/" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-9e6b79?style=for-the-badge&logo=twitter&logoColor=white" alt="Vikas_Devnet" />
+  </a>
+  <a href="https://devnet.ind.in/" target="_blank" rel="Devnet Site" target="_blank">
     <img src="https://img.shields.io/badge/Devnet-24826d?style=for-the-badge&logo=linkedin&logoColor=white" alt="devnet.ind.in" />
   </a>
 </p>
