@@ -26,7 +26,7 @@
 
 <!-- Read the blogs here on my hashnode profile -->
 
-## Read technical blogs here:
+## Get My Work here:
 <p align="left"> 
 
 </a>
@@ -34,7 +34,14 @@
     target="_blank"
     rel="Vikas's hashnode" >
     <img
-      src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" />
+      src="https://img.shields.io/badge/Hashnode-2962FF" />
+  </a>
+  </a>
+  <a href="https://devnet.ind.in/"
+    target="_blank"
+    rel="Devenet Site" >
+    <img
+      src="https://img.shields.io/badge/Devnet-24826d?style=for-the-badge&logo=hashnode&logoColor=white" />
   </a>
 </p>
 
