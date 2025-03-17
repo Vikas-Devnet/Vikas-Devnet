@@ -34,14 +34,8 @@
     target="_blank"
     rel="Vikas's hashnode" >
     <img
-      src="https://img.shields.io/badge/Hashnode-2962FF" />
+      src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" />
   </a>
-  </a>
-  <a href="https://devnet.ind.in/"
-    target="_blank"
-    rel="Devenet Site" >
-    <img
-      src="https://img.shields.io/badge/Devnet-24826d?style=for-the-badge&logo=hashnode&logoColor=white" />
   </a>
 </p>
 
@@ -50,8 +44,14 @@
 
 ## <h3 align="left"> Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/vikas-kumar-b97876324/" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="vikas-kumar-b97876324" /></a>
+  <a href="https://www.linkedin.com/in/vikas-kumar-b97876324/" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="vikas-kumar-b97876324" />
+  </a>
+  <a href="https://devnet.ind.in/" target="_blank" rel="Devnet Site">
+    <img src="https://img.shields.io/badge/Devnet-24826d?style=for-the-badge&logo=linkedin&logoColor=white" alt="devnet.ind.in" />
+  </a>
 </p>
+
 
 <!-- these are my tech stacks that i'm using currently-->
 
