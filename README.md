@@ -17,8 +17,8 @@
 ## About me 
 
 - 🧑🏻‍💻 Software Developer
-- 😎 Worked in **C#**,**.Net**,**Java**,**Kotlin**,**Android** ,**Firebase**
-- 🌱 Learning **Frontend Development**
+- 😎 Worked in **C#**,**.Net**,**Java**,**Android** ,**Firebase**,**Sql Server**
+- 🌱 Learning **Backend Development**
 - 📫 How to reach me **https://www.linkedin.com/in/vikas-kumar-b97876324/**
 - 📝 I'm a Technical Writer at @hashnode https://vikas02k02.hashnode.dev/
 
